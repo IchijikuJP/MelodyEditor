@@ -1,1 +1,18 @@
 # MelodyEditor
+
+## Todos
+
+
+
+## Needs
+
+
+
+## Ideas
+
+
+
+
+
+
+
